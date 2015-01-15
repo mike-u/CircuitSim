@@ -1,0 +1,1 @@
+This program was used for ECE 0132 to simulate a circuit and give a truth table for all the permutations of a 6-switch circuit.
